@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Adrián Santana Aguado</h1>
-<h3 align="center">Sargento del Ejército de Tierra · Telecomunicaciones · Ciberseguridad · IA</h3>
+<h3 align="center">Sargento del Ejército de Tierra · Hacking · Ciberseguridad · IA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Especialista+en+Telecomunicaciones;Seguridad+Cr%C3%ADtica+y+Ciberseguridad;Integrando+IA+con+Seguridad;eJPTv2+Certified;Windows+%7C+Linux+%7C+Redes+Seguras" alt="Typing SVG" />
